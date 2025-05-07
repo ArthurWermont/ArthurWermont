@@ -1,69 +1,74 @@
-<h1 align="center">👋 Olá, sou Arthur Wermont</h1>
+<h1 align="center">Arthur Wermont 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor & Pesquisador Científico na Área de Tecnologia <br>
-  Estudante de Ciência da Computação na <strong>Universidade de Fortaleza (UNIFOR)</strong> <br>
-  💡 Apaixonado por tecnologia aplicada à saúde pública, ciência de dados e impacto social
+Desenvolvedor, pesquisador científico e entusiasta da inovação. <br>
+Unindo tecnologia, dados e propósito para criar impacto real.
 </p>
 
 ---
 
-### 👨‍💻 Tecnologias que uso e estudo:
+## 📌 Sobre mim
 
-- **Linguagens:** Java, JavaScript, TypeScript, Python
-- **Frameworks:** React.js, React Native, Node.js
-- **Ferramentas:** Git, GitHub, Firebase
-- **Áreas de Interesse:** Ciência de Dados, Redes Complexas, Grafos, Back-End e Sistemas de Saúde (SUS)
-
----
-
-### 🔬 Pesquisa Acadêmica
-
-Atualmente desenvolvo pesquisa científica no projeto **ResiSUS**, com foco em:
-
-- Análise de resiliência da rede de atendimento do SUS
-- Modelagem de dados em saúde
-- Uso de grafos e redes complexas para diagnóstico de vulnerabilidades
-- Desenvolvimento back-end para processamento e visualização de dados
-
-> Projeto certificado pela UNIFOR e coordenado por Raimir Holanda Filho
+- 🎓 Graduando em Ciência da Computação na Universidade de Fortaleza (UNIFOR)
+- 🧪 Pesquisador no projeto **ResiSUS**, focado em redes complexas e dados do SUS
+- 🚀 Foco em desenvolvimento de sistemas, back-end e ciência de dados
+- 💡 Apaixonado por projetos com impacto social e aprendizado contínuo
 
 ---
 
-### 🚀 Projetos em destaque:
+## 🛠️ Stack de Tecnologias
 
-📌 [CampeonatoBrasileiro](https://github.com/ArthurWermont/CampeonatoBrasileiro)  
-> Simulação do Brasileirão com Java, JFrame e leitura de arquivos CSV  
-> Interface interativa, classificação dinâmica e placares simulados
-
-📌 [yby-front](https://github.com/ArthurWermont/yby-front)  
-> Aplicação com React e TypeScript desenvolvida para a startup de sustentabilidade Yby
-
-📌 [calculator](https://github.com/ArthurWermont/calculator)  
-> Calculadora web interativa com lógica em TypeScript
-
----
-
-### 🌐 Onde me encontrar:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/arthurwermont)
-- 💻 [GitHub](https://github.com/ArthurWermont)
-- 🧠 [Currículo Lattes](http://lattes.cnpq.br/4045758530340950)
-- ✉️ arthurwermont@gmail.com
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br>Firebase</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+  </tr>
+</table>
 
 ---
 
-### ✨ Em busca de oportunidades
+## 🧠 O que venho explorando agora
 
-Estou disponível para estágios, projetos de inovação e parcerias em tecnologia, especialmente nas áreas de:
+- Construção de apps com **React Native**
+- Modelagem de sistemas com **grafos e redes complexas**
+- Lógica de programação e algoritmos avançados
+- Análise de dados em saúde pública (SUS)
 
-- Sistemas Inteligentes
-- Soluções para saúde pública
-- Aplicações web/mobile com foco social
-- Projetos que promovam impacto positivo
+---
+
+## 📈 Painel GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArthurWermont&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurWermont&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+| Plataforma | Link |
+|-----------|------|
+| 📧 E-mail | [arthurwermont@gmail.com](mailto:arthurwermont@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/arthurwermont](https://www.linkedin.com/in/arthurwermont) |
+| 💻 GitHub | [github.com/ArthurWermont](https://github.com/ArthurWermont) |
+| 📄 Currículo Lattes | [lattes.cnpq.br/4045758530340950](http://lattes.cnpq.br/4045758530340950) |
+
+---
+
+## ✨ Extras sobre mim
+
+- 🎮 Gosto de jogos e simulações que desafiam a lógica
+- 📚 Leitor curioso, buscando sempre evoluir tecnicamente
+- 🧩 Colaborativo, com facilidade para trabalhar em equipe multidisciplinar
+- 🧭 Guiado por propósito, movido por impacto
 
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! Vamos nos conectar?
+🌟 “Programar é desenhar soluções para o mundo real. E eu gosto de fazer isso com propósito.” 🌟
 </p>
