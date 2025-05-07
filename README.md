@@ -62,7 +62,7 @@ Unindo tecnologia, dados e propósito para criar impacto real.
 
 ## ✨ Extras sobre mim
 
-- 🎮 Gosto de jogos e simulações que desafiam a lógica
+- 🗣️ Comunicador nato, movido por desafios e pela busca constante de superação
 - 📚 Leitor curioso, buscando sempre evoluir tecnicamente
 - 🧩 Colaborativo, com facilidade para trabalhar em equipe multidisciplinar
 - 🧭 Guiado por propósito, movido por impacto
