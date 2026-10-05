@@ -122,29 +122,6 @@ Environmental indicators handled by the platform include measurements related to
 
 ---
 
-### 🛍️ LYVV Training
-
-A modern web experience developed for a women's fitness and activewear brand, with a strong focus on **visual identity, responsive design and usability**.
-
-The project evolved beyond a simple institutional website and includes:
-
-- mobile-first responsive interfaces
-- product and collection presentation
-- shopping cart with persistent state
-- administrative workflows
-- transactional email integration
-- pre-payment flows
-- responsive navigation
-- production deployment
-
-**Stack:** Next.js · React · TypeScript
-
-🔗 [View live website](https://lyvvtraining.com.br/)
-
-> The source code is private.
-
----
-
 ### 🏗️ Caldas & Furlani Engenharia
 
 A production-ready institutional website developed for a civil engineering and infrastructure company.
@@ -170,27 +147,26 @@ Key aspects include:
 
 ---
 
-### 📱 Jus-Unifor
+### 🛍️ LYVV Training
 
-A mobile application developed for a real law-office workflow during the Mobile Platform Development course at **Universidade de Fortaleza**.
+A modern web experience developed for a women's fitness and activewear brand, with a strong focus on **visual identity, responsive design and usability**.
 
-The project was designed to centralize legal case information and improve the daily organization of a law office.
+The project evolved beyond a simple institutional website and includes:
 
-The application includes:
+- mobile-first responsive interfaces
+- product and collection presentation
+- shopping cart with persistent state
+- administrative workflows
+- transactional email integration
+- pre-payment flows
+- responsive navigation
+- production deployment
 
-- secure authentication
-- account registration and password recovery
-- legal case management
-- case search and visualization
-- favorites
-- audit and modification history
-- user profile management
-- real-time data persistence
-- reusable interface components
+**Stack:** Next.js · React · TypeScript
 
-My contributions focused on core application functionality, authentication, process management and audit mechanisms.
+🔗 [View live website](https://lyvvtraining.com.br/)
 
-**Stack:** React Native · Firebase Authentication · Cloud Firestore · AsyncStorage · React Navigation · Styled Components · Git/GitHub
+> The source code is private.
 
 ---
 
@@ -218,6 +194,30 @@ This project strengthened my understanding of **algorithms, data structures, gra
 **Stack:** Java · Graph Theory · Data Structures · Algorithms
 
 ➡️ [View repository](https://github.com/ArthurWermont/Graph-Based-Network-Infrastructure-Analyzer)
+
+---
+
+### 📱 Jus-Unifor
+
+A mobile application developed for a real law-office workflow during the Mobile Platform Development course at **Universidade de Fortaleza**.
+
+The project was designed to centralize legal case information and improve the daily organization of a law office.
+
+The application includes:
+
+- secure authentication
+- account registration and password recovery
+- legal case management
+- case search and visualization
+- favorites
+- audit and modification history
+- user profile management
+- real-time data persistence
+- reusable interface components
+
+My contributions focused on core application functionality, authentication, process management and audit mechanisms.
+
+**Stack:** React Native · Firebase Authentication · Cloud Firestore · AsyncStorage · React Navigation · Styled Components · Git/GitHub
 
 ---
 
